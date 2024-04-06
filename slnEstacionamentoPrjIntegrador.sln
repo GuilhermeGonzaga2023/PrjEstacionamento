@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "estacionamentoPrjIntegrador", "estacionamentoPrjIntegrador\estacionamentoPrjIntegrador.csproj", "{30F76C1D-9495-4257-8CAA-FDD343D76AEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testeEst", "testeEst\testeEst.csproj", "{EBE879A7-F719-413E-B6B1-3D9ECAE936C3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Itens de Solução", "Itens de Solução", "{0FADEF28-0B88-456B-AAA0-DACA51622F30}"
+	ProjectSection(SolutionItems) = preProject
+		SQLQuery1.sql = SQLQuery1.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30F76C1D-9495-4257-8CAA-FDD343D76AEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30F76C1D-9495-4257-8CAA-FDD343D76AEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30F76C1D-9495-4257-8CAA-FDD343D76AEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30F76C1D-9495-4257-8CAA-FDD343D76AEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBE879A7-F719-413E-B6B1-3D9ECAE936C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBE879A7-F719-413E-B6B1-3D9ECAE936C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBE879A7-F719-413E-B6B1-3D9ECAE936C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBE879A7-F719-413E-B6B1-3D9ECAE936C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6204C9DE-0CDC-4D76-8232-39A404C428C1}
+	EndGlobalSection
+EndGlobal

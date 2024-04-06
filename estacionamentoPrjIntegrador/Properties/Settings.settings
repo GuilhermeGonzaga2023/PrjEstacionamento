@@ -1,0 +1,14 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="estacionamentoPrjIntegrador.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="strConexao" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;ConnectionString&gt;workstation id=estacionamentoTeste.mssql.somee.com;packet size=4096;user id=GuiGonzaga2023_SQLLogin_1;pwd=3ugvlr9rle;data source=estacionamentoTeste.mssql.somee.com;persist security info=False;initial catalog=estacionamentoTeste&lt;/ConnectionString&gt;
+  &lt;ProviderName /&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">workstation id=estacionamentoTeste.mssql.somee.com;packet size=4096;user id=GuiGonzaga2023_SQLLogin_1;pwd=3ugvlr9rle;data source=estacionamentoTeste.mssql.somee.com;persist security info=False;initial catalog=estacionamentoTeste</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,13 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Banco.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="EstacionamentoBD" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;ConnectionString&gt;workstation id=estacionamentoSenac.mssql.somee.com;packet size=4096;user id=PIintegrador_SQLLogin_1;pwd=dc3gyue1ka;data source=estacionamentoSenac.mssql.somee.com;persist security info=False;initial catalog=estacionamentoSenac&lt;/ConnectionString&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">workstation id=estacionamentoSenac.mssql.somee.com;packet size=4096;user id=PIintegrador_SQLLogin_1;pwd=dc3gyue1ka;data source=estacionamentoSenac.mssql.somee.com;persist security info=False;initial catalog=estacionamentoSenac</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
